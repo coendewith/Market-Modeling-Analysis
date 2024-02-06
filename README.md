@@ -1,6 +1,8 @@
 # Market-Modeling-Analysis
 An analytical project showcasing market positioning modeling using anonymized data. Involves bias adjustment, dataset alignment, and market trend analysis. The methodology aligns internal truths with external samples for strategic insights
 
+link to external data: https://drive.google.com/file/d/1vVabbT3Ivvc-Zrpd8e9QHuSy9Jajlzdp/view?usp=sharing
+
 ## Project Overview
 This project, titled "Market-Positioning-Analysis-Project," is a comprehensive exercise in market modeling and competitor analysis. It's focusing on competition insights. The dataset is anonymized. 
 
